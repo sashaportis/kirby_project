@@ -1,0 +1,15 @@
+title: Post
+
+pages: false
+
+fields: 
+  
+  caption:
+    label: Caption
+    type: textarea
+
+  tags:
+    label: Tags
+    type: text
+    
+ 

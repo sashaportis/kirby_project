@@ -1,0 +1,17 @@
+Title: The Distance Plan, 2016, website
+
+----
+
+Type: Website
+
+----
+
+Text: Design and development of a site for The Distance Plan, an organization that promotes the discussion of climate change amongst artists.
+
+----
+
+Street: http://thedistanceplan.org/
+
+----
+
+Category: Visit

@@ -1,0 +1,21 @@
+Title: Pratt Poster Generator, 2017, web application
+
+----
+
+Year: 2013
+
+----
+
+Text: Poster Generator for Pratt Institute. Poster template system made in collaboration with Kristian Henson.
+
+----
+
+Type: Website
+
+----
+
+Street: 
+
+----
+
+Category: 

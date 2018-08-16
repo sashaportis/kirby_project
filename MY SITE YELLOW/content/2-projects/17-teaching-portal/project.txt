@@ -1,0 +1,17 @@
+Title: Teaching Portal, 2017, Website
+
+----
+
+Type: Website
+
+----
+
+Text: Teaching site for my web design classes using google docs. New menu overlay every semester.
+
+----
+
+Street: http://talking-digital.net/
+
+----
+
+Category: Visit

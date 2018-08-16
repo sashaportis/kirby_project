@@ -1,0 +1,17 @@
+Title: Berlin Bienniale, 2018, website
+
+----
+
+Type: Website
+
+----
+
+Text: Website for the 10th Berlin Biennale. Identity by Maziyar Pahlevan. Code by Joseph Pleass.
+
+----
+
+Street: http://www.berlinbiennale.de/
+
+----
+
+Category: Visit

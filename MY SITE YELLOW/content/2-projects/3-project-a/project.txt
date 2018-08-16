@@ -1,0 +1,21 @@
+Title: Nicolas Jaar, 2018, website
+
+----
+
+Year: 2014
+
+----
+
+Text: Website for Nicolas Jaar. Code by Corey Tegeler.
+
+----
+
+Type: Website
+
+----
+
+Street: https://nicolasjaar.net/
+
+----
+
+Category: Visit

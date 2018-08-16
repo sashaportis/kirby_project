@@ -1,0 +1,17 @@
+Title: Container-store.net, 2018, website
+
+----
+
+Type: website
+
+----
+
+Text: Design and development of an ongoing image archive for my research on containers.
+
+----
+
+Street: http://container-store.net/
+
+----
+
+Category: Visit

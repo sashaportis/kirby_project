@@ -1,0 +1,5 @@
+Title: Images 2
+
+----
+
+Text: (image: berlin_00.jpg caption: Some caption text)(image: berlin_02.jpg caption: Caption here here)(image: berlin_03.jpg)
